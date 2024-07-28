@@ -5,7 +5,7 @@
 ## 目录结构
 
 ```
-ShenzhenCup2024-MathModeling/
+2024-ShenzhenCup-MathModeling/
 │
 ├── code/
 │ ├── problem1/
